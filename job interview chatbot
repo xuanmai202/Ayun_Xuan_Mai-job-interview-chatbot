@@ -1,0 +1,8 @@
+job-interview-chatbot-streamlit/
+├─ streamlit_app.py
+├─ questions.json
+├─ feedback_rules.yaml
+├─ requirements.txt
+├─ README.md
+└─ .streamlit/
+   └─ config.toml
